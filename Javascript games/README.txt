@@ -1,0 +1,1 @@
+Dit zijn een paar kleine projectjes om meerdere dingen te testen in p5, het meeste heb ik gedaan voor het project waar ik met Jochem en Abbe een tank game hebben gemaakt.
